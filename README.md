@@ -67,4 +67,9 @@
 + [ie调试工具](https://dev.windows.com/en-us/microsoft-edge/)
 + [ps插件-cutterman](http://www.cutterman.cn/)
 + [css裁剪工具-css clip-path maker](http://bennettfeely.com/clippy/)
++ [SWF to html5](https://developers.google.com/swiffy/)
++ [PS to SVG](http://hackingui.com/design/export-photoshop-layer-to-svg/)
++ [IDEA 注册工具](http://appcode.aliapp.com/)
++ [获取网站Favicons](http://grabicon.com/)
++ [Data URL Maker](http://dataurl.net/#dataurlmaker)
 
