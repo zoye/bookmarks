@@ -20,6 +20,7 @@
 + [轮播插件-Swiper](http://www.idangero.us/swiper/api/)
 + [轮播插件-fullPage.js](https://github.com/alvarotrigo/fullPage.js)
 + [上传插件-webUploader](http://fex.baidu.com/webuploader/doc/index.html)
++ [上传插件-uploadify](http://www.uploadify.com/documentation/)
 + [视频插件-videoJs](http://videojs.com/)
 + [表单验证插件-jq Validate](http://jqueryvalidation.org/validate)
 + [富文本插件-Quill](http://quilljs.com/docs/api/)
@@ -30,3 +31,10 @@
 + [createjs](http://createjs.com/)
 + [Freemarker api](http://www.kerneler.com/freemarker2.3.23/)
 + [Semantic UI](http://semantic-ui.com/)
++ [http://yeoman.io/](http://yeoman.io/)
++ [http://brew.sh/](http://brew.sh/)
++ [Grunt](http://www.gruntjs.net/)
++ [wordpress 函数](http://codex.wordpress.org/zh-cn:%E5%87%BD%E6%95%B0%E5%8F%82%E8%80%83)
++ [geolocation](http://www.phonegapcn.com/docs/zh/cn/geolocation.html)
++ [七牛图片高级处理](http://developer.qiniu.com/docs/v6/api/reference/fop/image/imagemogr2.html)
++ 
