@@ -11,6 +11,8 @@
 + [less](http://www.lesscss.net/)
 + Sass [中文](http://sass-guidelin.es/zh/)，[英文](http://sass-guidelin.es/)
 + [css属性兼容版本](http://caniuse.com/)
++ [css3动画](http://isux.tencent.com/css3/tools.html)
++ [animate.css](http://daneden.github.io/animate.css/)
 + [Markdown 语法说明(简体中文版)](http://wowubuntu.com/markdown/)
 + [Kissy](http://docs.kissyui.com/)
 + [微信JS-SDK说明文档](http://mp.weixin.qq.com/wiki/7/aaa137b55fb2e0456bf8dd9148dd613f.html)
