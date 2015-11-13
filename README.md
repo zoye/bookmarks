@@ -1,5 +1,7 @@
 # bookmarks
 个人书签(访问不了的可能得翻墙)
++ <a href="#API">API</a>
++ <a href="#plugin">常用插件</a>
 
 ###API
 + [jQuery API 中文文档](http://www.css88.com/jqapi-1.9/)
@@ -30,7 +32,7 @@
 + [七牛图片高级处理](http://developer.qiniu.com/docs/v6/api/reference/fop/image/imagemogr2.html)
 + 
 
-###常用插件
+###<span id="plugin">常用插件</span>
 + [热点地图插件-heatmap.js](http://www.patrick-wied.at/static/heatmapjs/)
 + [轮播插件-Swiper](http://www.idangero.us/swiper/api/)
 + [轮播插件-fullPage.js](https://github.com/alvarotrigo/fullPage.js)
