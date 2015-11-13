@@ -61,6 +61,10 @@
 + [字体格式转换1](http://www.freefontconverter.com/)
 + [字体格式转换2](http://www.fontsquirrel.com/tools/webfont-generator)
 + [字体格式转换3(推荐)](http://otf2ttf.com/)
++ [中文字体下载1](http://www.qiuziti.com/)
++ [中文字体下载2](http://www.youziku.com/Home/Index)
++ [字蛛](http://font-spider.org/)
 + [ie调试工具](https://dev.windows.com/en-us/microsoft-edge/)
 + [ps插件-cutterman](http://www.cutterman.cn/)
++ [css裁剪工具-css clip-path maker](http://bennettfeely.com/clippy/)
 
