@@ -46,3 +46,8 @@
 + [图表插件-jvector Map](http://jvectormap.com/)
 + [图表插件-ZRender](http://ecomfe.github.io/zrender/)
 + [图表插件-d3js](http://d3js.org/)
++ [表单美化插件-iCheck](http://fronteed.com/iCheck/#skin-polaris)
++ [瀑布流插件-Masonry](http://masonry.desandro.com/index.html)
++ [瀑布流插件-wookmark](http://www.wookmark.com/jquery-plugin)
++ [瀑布流插件-blockslt.js](http://www.inwebson.com/jquery/blocksit-js-dynamic-grid-layout-jquery-plugin/)
++ [瀑布流插件-Lsotope](http://isotope.metafizzy.co/index.html)
