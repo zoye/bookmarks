@@ -1,5 +1,5 @@
 # bookmarks
-个人书签
+个人书签(访问不了的可能得翻墙)
 
 ###API
 + [jQuery API 中文文档](http://www.css88.com/jqapi-1.9/)
@@ -51,3 +51,16 @@
 + [瀑布流插件-wookmark](http://www.wookmark.com/jquery-plugin)
 + [瀑布流插件-blockslt.js](http://www.inwebson.com/jquery/blocksit-js-dynamic-grid-layout-jquery-plugin/)
 + [瀑布流插件-Lsotope](http://isotope.metafizzy.co/index.html)
++ 
+
+###在线工具
++ [在线压缩图片](https://tinypng.com/)
++ [google在线字体](http://www.fontsquirrel.com/fonts)
++ [loading图标制作](http://ajaxload.info/)
++ [市场份额调查](http://tongji.baidu.com/data/browser),[全球ie6调查](https://dev.windows.com/en-us/microsoft-edge/ie6countdown/)
++ [字体格式转换1](http://www.freefontconverter.com/)
++ [字体格式转换2](http://www.fontsquirrel.com/tools/webfont-generator)
++ [字体格式转换3(推荐)](http://otf2ttf.com/)
++ [ie调试工具](https://dev.windows.com/en-us/microsoft-edge/)
++ [ps插件-cutterman](http://www.cutterman.cn/)
+
