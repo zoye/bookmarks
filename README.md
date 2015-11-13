@@ -72,4 +72,6 @@
 + [IDEA 注册工具](http://appcode.aliapp.com/)
 + [获取网站Favicons](http://grabicon.com/)
 + [Data URL Maker](http://dataurl.net/#dataurlmaker)
++ [css 六边形](http://csshexagon.com/)
++ [web templates psd](http://www.freepik.com/free-psd/web-templates)
 
