@@ -1,7 +1,8 @@
 # bookmarks
 个人书签(访问不了的可能得翻墙)
-+ <a href="#API">API</a>
++ <a href="#user-content-API">API</a>
 + <a href="#user-content-常用插件">常用插件</a>
++ <a href="#user-content-在线工具">在线工具</a>
 
 ###API
 + [jQuery API 中文文档](http://www.css88.com/jqapi-1.9/)
