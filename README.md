@@ -3,6 +3,7 @@
 + <a href="#user-content-API">API</a>
 + <a href="#user-content-常用插件">常用插件</a>
 + <a href="#user-content-在线工具">在线工具</a>
++ <a href="#user-content-炫酷的例子">炫酷的例子</a>
 
 ###API
 + [jQuery API 中文文档](http://www.css88.com/jqapi-1.9/)
@@ -79,4 +80,8 @@
 + [Data URL Maker](http://dataurl.net/#dataurlmaker)
 + [css 六边形](http://csshexagon.com/)
 + [web templates psd](http://www.freepik.com/free-psd/web-templates)
++ 
+
+###炫酷的例子
++ [黑洞吸引](http://whxaxes.github.io/canvas-test/src/Particle-demo/blackhole/blackhole.html)
 
